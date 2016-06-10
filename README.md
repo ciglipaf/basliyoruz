@@ -11,3 +11,4 @@ Acayip şişti beynimiz bu komutlarla, biraz ara verelim!
 
 ABV GITHUB
 3 numaralı issue çözüldü.
+Çözülememiş :d Şimdi çözülecek...
