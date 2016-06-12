@@ -1,3 +1,3 @@
 # basliyoruz
 Her şey burda başladı...
-ve Cemal ilk satırlarını yazıyor!
+ve Cemal ilk satırlarını yazıyor (geçmişte değişiklik yaptı, vuuv)!
