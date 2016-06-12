@@ -18,3 +18,4 @@ Trello kullanıyoruz!
 Aynı push isteğine, yeni bir istek ekleyelim şimdi de.
 Bakalım https://github.com/ciglipaf/basliyoruz/pull/11
 burada bir push isteği daha olacak mı?
+Son bir push isteği daha ve tamamdır.
