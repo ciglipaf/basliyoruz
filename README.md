@@ -4,6 +4,7 @@ ve Cemal ilk satırlarını yazıyor!
 
 veee Zeynep de katılıyor!
 
+<<<<<<< HEAD
 # Seni yeneceğiz github -.- #
 
 Acayip şişti beynimiz bu komutlarla, biraz ara verelim!
@@ -19,3 +20,7 @@ Aynı push isteğine, yeni bir istek ekleyelim şimdi de.
 Bakalım https://github.com/ciglipaf/basliyoruz/pull/11
 burada bir push isteği daha olacak mı?
 Son bir push isteği daha ve tamamdır.
+=======
+
+(YENEMEDİLER)
+>>>>>>> benartikyapmicam
