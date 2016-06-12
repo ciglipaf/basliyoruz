@@ -16,3 +16,5 @@ deneme
 
 Trello kullanıyoruz!
 Aynı push isteğine, yeni bir istek ekleyelim şimdi de.
+Bakalım https://github.com/ciglipaf/basliyoruz/pull/11
+burada bir push isteği daha olacak mı?
