@@ -21,3 +21,5 @@ burada bir push isteği daha olacak mı?
 Son bir push isteği daha ve tamamdır.
 
 vee PivotalTracker kullanarak Agile Proje Yönetimine giriş yapıyoruz!
+
+Continious Integration öğrenmeye başlıyoruz! Travis-CI ile giriş yaptık!
