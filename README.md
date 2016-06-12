@@ -13,3 +13,5 @@ ABV GITHUB
 3 numaralı issue çözüldü.
 Çözülememiş :d Şimdi çözülecek...
 deneme
+
+Trello kullanıyoruz!
