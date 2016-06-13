@@ -1,0 +1,6 @@
+[submodule "basliyoruz"]
+	path = basliyoruz
+	url = git@github.com:ciglipaf/basliyoruz.git
+[submodule "basliyoruz.wiki"]
+	path = basliyoruz.wiki
+	url = https://github.com/ciglipaf/basliyoruz.wiki.git
