@@ -1,0 +1,22 @@
+{
+  "name": "ciglipaf_travis",
+  "version": "0.0.0",
+  "description": "ciglipaf projemiz için travis-ci kullanıyoruz",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp travis --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciglipaf/basliyoruz.git"
+  },
+  "author": "cmlonder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciglipaf/basliyoruz/issues"
+  },
+  "homepage": "https://github.com/ciglipaf/basliyoruz#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
