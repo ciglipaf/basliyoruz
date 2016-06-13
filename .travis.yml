@@ -3,7 +3,7 @@ before_script:
 script: gulp
 language: node_js
 node_js:
-  - "6"
+  - "5"
 # bu sayede travis submodule'leri pull ederek fazladan iş yapmamış olacak.
 git:
   submodules: false
