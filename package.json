@@ -4,7 +4,7 @@
   "description": "ciglipaf projemiz için travis-ci kullanıyoruz",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "gulp travis --verbose"
+    "test": "gulp ciglipaf --verbose"
   },
   "repository": {
     "type": "git",
